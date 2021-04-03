@@ -4,7 +4,7 @@ A Flutter musical app built with nodejs and firebase.
 
 ## Description
 
-This is the first music app build with Flutter. With a nice interface you can play punjabi music ,create playlists and share them with others. You can also search for particular artist or song.There is also switching of dark theme. Pagination is also used. Thank you
+This app is the first music app build with Flutter. With a nice interface you can play punjabi music ,create playlists and share them with others. You can also search for particular artist or song.There is also switching of dark theme. Pagination is also used. Thank you
 
 
 ### Attention
@@ -34,7 +34,6 @@ Following is list of important wigdets used in app.(Can't list all 😁)
 3) [BackdropFilter](https://docs.flutter.io/flutter/widgets/BackdropFilter-class.html)
 4) [ClipRRect](https://docs.flutter.io/flutter/widgets/ClipRRect-class.html)
 5) [CupertinoSliverNavigationBar](https://docs.flutter.io/flutter/cupertino/CupertinoSliverNavigationBar-class.html) 
-
 
 ## License
 
